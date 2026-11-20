@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://agavio.mx/sitemap.xml
