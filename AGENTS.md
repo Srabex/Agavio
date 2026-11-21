@@ -26,7 +26,7 @@ Sitio de Agavio Distributions (distribuidora de destilados mexicanos, foco en ra
 
 ## Pendientes
 - Confirmar teléfono público y usuario nuevo de Instagram.
-- Correo: reenvío ventas@ / victor@agavio.mx (Cloudflare Email Routing); Google Workspace si quieren enviar desde el dominio.
+- Correo: ventas@agavio.mx activo desde el 21 nov 2026 (Cloudflare Email Routing → victor.hernandez.lider@gmail.com, solo recibe). Para contestar desde @agavio.mx: Google Workspace (el "Enviar como" de Gmail con SMTP externo desaparece en enero 2027; no configurarlo).
 - Ficha de Google (Perfil de Negocio) apuntando a agavio.mx.
 - Ficha técnica y foto real de Embrujo de la Montaña (sin personas) para el portafolio.
 - Píxel de Meta cuando haya pauta (`fbq` ya se llama en los clics de WhatsApp si existe).
